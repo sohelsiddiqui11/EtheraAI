@@ -48,3 +48,7 @@ This app is ready to be deployed on Railway.
    - `JWT_SECRET` = `your-secure-random-string`
    - `NODE_ENV` = `production`
 4. Generate a public domain under Settings > Networking.
+
+
+
+
